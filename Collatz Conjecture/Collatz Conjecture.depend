@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601522760 source:c:\users\pascodev\desktop\collatz conjecture\main.c
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+

@@ -1,0 +1,11 @@
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.exe
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.deps.json
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.dll
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\bin\Debug\netcoreapp3.1\Parallel_Programing_program.pdb
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\obj\Debug\netcoreapp3.1\Parallel_Programing_program.csprojAssemblyReference.cache
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\obj\Debug\netcoreapp3.1\Parallel_Programing_program.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\obj\Debug\netcoreapp3.1\Parallel_Programing_program.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\obj\Debug\netcoreapp3.1\Parallel_Programing_program.dll
+C:\Users\PASCODEV\Desktop\Parallel Programing\Parallel_Programing_program\Parallel_Programing_program\obj\Debug\netcoreapp3.1\Parallel_Programing_program.pdb

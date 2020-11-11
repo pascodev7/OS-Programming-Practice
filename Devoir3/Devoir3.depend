@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601090329 source:c:\users\pascodev\desktop\devoir3\main.c
+	<stdio.h>
+	<stdlib.h>
+

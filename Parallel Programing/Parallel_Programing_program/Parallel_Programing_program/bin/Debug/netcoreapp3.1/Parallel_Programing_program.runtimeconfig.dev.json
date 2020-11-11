@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PASCODEV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PASCODEV\\.nuget\\packages"
+    ]
+  }
+}
